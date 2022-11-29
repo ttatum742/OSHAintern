@@ -6,3 +6,4 @@ https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c68
 about:reader?url=https%3A%2F%2Fgithub.com%2FUSDepartmentofLabor%2Fsoii_neural_autocoder
 https://www.kaggle.com/datasets/ruqaiyaship/osha-accident-and-injury-data-1517
 http://goodcsv.com/geography/us-states-territories/
+enforcedata.dol.gov
