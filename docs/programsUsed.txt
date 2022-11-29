@@ -1,0 +1,13 @@
+Languages & Software:
+
+Visual Studio Code
+R
+RStudio
+Python 3.10
+Anaconda
+GitHub Desktop
+MSSQL Server Management Studio
+dbForge Studio for SQL Server (1 month free trial)
+Powershell
+Microsoft Excel
+Microsoft Word

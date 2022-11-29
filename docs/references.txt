@@ -1,0 +1,8 @@
+https://github.com/USDepartmentofLabor/soii_neural_autocoder/blob/master/examples/big_single_seq_180_lr4e-4.py
+https://www.bls.gov/osmr/research-papers/2014/pdf/st140040.pdf
+https://github.com/USDepartmentofLabor/soii_neural_autocoder
+https://gist.github.com/CMCDragonkai/fe342b958e013078d72500d286973075
+https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+about:reader?url=https%3A%2F%2Fgithub.com%2FUSDepartmentofLabor%2Fsoii_neural_autocoder
+https://www.kaggle.com/datasets/ruqaiyaship/osha-accident-and-injury-data-1517
+http://goodcsv.com/geography/us-states-territories/
