@@ -1,0 +1,10 @@
+NLTK
+pandas
+scikit-learn
+scipy
+seaborn
+statsmodels
+numpy
+matplotlib
+statsmodels
+collections
