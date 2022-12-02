@@ -1,3 +1,7 @@
+<script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBbMHa0TUUAY6hArxEbCsCpVRW9kB5bqY8&libraries=visualization&callback=initMap">
+</script>
+
 function initMap() {
     const map = new google.maps.Map(document.getElementById("map"), {
       zoom: 3,
